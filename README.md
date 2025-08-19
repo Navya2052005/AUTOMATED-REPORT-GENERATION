@@ -49,3 +49,6 @@ These tools are used across various industries and departments, including health
 need for manual reporting, saving time, reducing errors, and enabling faster, data-driven decision-making. They often involve features like data integration, report 
 scheduling, 
 and customizable dashboards. 
+
+OUTPUT
+[data_report.pdf](https://github.com/user-attachments/files/21861044/data_report.pdf)
